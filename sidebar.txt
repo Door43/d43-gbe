@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gbe:home|Door43 (gbe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gbe|d43-gbe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gbe/archive/master.zip|d43-gbe.zip]]
+
+**Recent Changes**
+{{changes>ns = gbe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gbe|Ethnologue data]]
+
